@@ -1,6 +1,10 @@
 # paper-cli
 paper-cli is an unofficial tool that makes downloading, managing, upgrading Paper server software for Minecraft easier!
 
+# Planned Features
+- Upgrading existing Paper servers
+- Full CLI mode
+
 # Installation
 1. Clone the repository
 ```sh
