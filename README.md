@@ -8,7 +8,7 @@ paper-cli is an unofficial tool that makes downloading, managing, upgrading Pape
 # Installation
 1. Clone the repository
 ```sh
-git clone https://github.com/re1e4se/paper-cli
+git clone https://github.com/re1e4se/paper-cli.git
 ```
 
 2. Navigate to the project directory
